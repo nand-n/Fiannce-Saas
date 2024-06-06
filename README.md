@@ -28,5 +28,5 @@ To get started with the SaaS finance app, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/finance-app.git
+   git clone https://github.com/nand-n/Fiannce-Saas.git
    cd finance-app
